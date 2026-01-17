@@ -1,0 +1,49 @@
+/* General styling */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+}
+
+/* Main content */
+main {
+  max-width: 840px;
+  margin: 20px auto;
+  padding: 10px;
+}
+
+/* Profile image inside main */
+main img {
+  width: 150px;
+  height: auto;
+}
+
+/* Paragraph fix required by W02 */
+p {
+  padding: 0;
+}
+
+/* Aside styling */
+aside {
+  width: 300px;
+  margin: 20px auto;
+  border: 1px solid #ccc;
+  padding: 15px;
+  background-color: #f4f4f4;
+  color: #000;
+}
+
+/* Image inside aside */
+aside img {
+  width: 200px;
+  height: auto;
+}
+
+/* Footer styling */
+footer {
+  margin-top: 20px;
+  border-top: 1px solid #ccc;
+  text-align: center;
+  padding: 10px;
+}
